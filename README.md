@@ -1,13 +1,13 @@
-# Boilerplate for Projects on GitHub
+# Bedroom Smart Home Arduino Controller
 
-This is the boilerplate for all my personal projects on GitHub. (This is the brief description for this repository)
+Arduino that connects to my smart home via RF to control LEDs, speakers, and more
 
 <br>
 
 ## Summary
- - This is the template boilerplate repository for all personal projects that I have on my GitHub. 
- - This template will expedite the creation and maintenance of all my various projects' repositories.
- - And more importantly, the standardized format will allow for auto parsing of the repository by a python script to automatically update my personal portfolio website.  
+ - Integrates perfectly with my [Smart Home Ecosystem](https://github.com/a-dubs/smart-home) via RF module using the MySensors protocol, allowing for easy control from my phone or any browser.
+ - Manipulates 3 zones of LED strips, allowing for individual control of RGB color, brightness, and on/off per zone
+ - 
 
 <br>
 
