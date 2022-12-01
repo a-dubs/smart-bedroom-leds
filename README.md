@@ -12,11 +12,11 @@ Arduino that connects to my smart home via RF to control LEDs, speakers, and mor
 
 <br>
 
-## Image Gallery
+<!-- ## Image Gallery
 
 ### Placeholder Image (This is the image's caption/label)
 ![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please_replace_me_I_am_begging_you.jpg)
-<br>
+<br> -->
 
 ## Project Metadata
 
