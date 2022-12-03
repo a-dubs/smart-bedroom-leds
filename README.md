@@ -1,6 +1,6 @@
 # Bedroom Smart Home Arduino Controller
 
-Arduino that connects to my smart home via RF to control LEDs, speakers, and more
+Arduino that connects to my smart home via RF as controller for LED strips, speakers, and more
 
 <br>
 
