@@ -20,8 +20,9 @@ Arduino that connects to my smart home via RF as controller for LED strips, spea
 
 ## Project Metadata
 
-**Project Status** : Active    
-**Project Progress** : Functional
+**Project Status** : Active  
+**Project Progress** : Functional  
+**Project dates** : Feb '22 - Present  
 
-**Project dates** : Jan '22 - Present  
 
+<!-- portfolio.alecwarren.com position priority = 1 (-1 is lowest, 0 is default, 10 is highest) -->
